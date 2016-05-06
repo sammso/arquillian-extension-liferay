@@ -28,8 +28,8 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
 		<version>2.5</version>
 		<configuration>
 		  <encoding>UTF-8</encoding>
-		  <source>1.6</source>
-		  <target>1.6</target>
+		  <source>1.8</source>
+		  <target>1.8</target>
 		</configuration>
 	  </plugin>
 	  <plugin>
@@ -44,14 +44,14 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
 <dependencies>
 	<dependency>
 	  <groupId>com.liferay.portal</groupId>
-	  <artifactId>portal-service</artifactId>
-	  <version>${liferay.version}</version>
+	  <artifactId>com.liferay.portal.kernel</artifactId>
+	  <version>2.3.0</version>
 	  <scope>provided</scope>
 	</dependency>
 	<dependency>
 	  <groupId>com.liferay.portal</groupId>
-	  <artifactId>util-java</artifactId>
-	  <version>${liferay.version}</version>
+	  <artifactId>com.liferay.util.java</artifactId>
+	  <version>2.0.1</version>
 	  <scope>provided</scope>
 	</dependency>
 	<dependency>
