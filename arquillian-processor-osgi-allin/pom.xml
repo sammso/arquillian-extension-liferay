@@ -8,7 +8,6 @@
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 
-	<groupId>org.arquillian.liferay</groupId>
 	<artifactId>arquillian-processor-osgi-allin</artifactId>
 	<version>1.0.0.Final-SNAPSHOT</version>
 	<name>Arquillian Liferay Processor OSGi All In</name>

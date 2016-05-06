@@ -9,7 +9,6 @@
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 
-	<groupId>org.arquillian.liferay</groupId>
 	<artifactId>arquillian-container-osgi-allin</artifactId>
 	<version>1.0.0.Final-SNAPSHOT</version>
 	<name>Arquillian Container OSGi All In</name>

@@ -8,7 +8,6 @@
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 
-	<groupId>org.arquillian.liferay</groupId>
 	<artifactId>arquillian-portal-liferay-extension</artifactId>
 	<version>1.0.0.Final-SNAPSHOT</version>
 	<name>Arquillian Portal Liferay Extension</name>
