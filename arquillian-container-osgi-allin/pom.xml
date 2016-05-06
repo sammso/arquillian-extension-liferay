@@ -10,7 +10,6 @@
 	</parent>
 
 	<artifactId>arquillian-container-osgi-allin</artifactId>
-	<version>1.0.0.Final-SNAPSHOT</version>
 	<name>Arquillian Container OSGi All In</name>
 	<description>Arquillian Remote Container OSGi that allow to use standars extensions</description>
 

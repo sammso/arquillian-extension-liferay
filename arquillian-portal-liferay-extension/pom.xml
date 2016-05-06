@@ -9,7 +9,6 @@
 	</parent>
 
 	<artifactId>arquillian-portal-liferay-extension</artifactId>
-	<version>1.0.0.Final-SNAPSHOT</version>
 	<name>Arquillian Portal Liferay Extension</name>
 	<description>Arquillian Portal Liferay Extension</description>
 	<packaging>bundle</packaging>

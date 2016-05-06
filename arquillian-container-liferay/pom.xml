@@ -10,7 +10,6 @@
 	</parent>
 
 	<artifactId>arquillian-container-liferay</artifactId>
-	<version>1.0.0.Final-SNAPSHOT</version>
 	<name>Arquillian Liferay Container Adapter</name>
 	<description>Arquillian Container Adapter for Liferay Portal Server. OSGi incontainer deployment.</description>
 
