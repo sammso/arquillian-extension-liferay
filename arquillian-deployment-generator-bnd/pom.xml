@@ -9,7 +9,6 @@
 	</parent>
 
 	<artifactId>arquillian-deployment-generator-bnd</artifactId>
-	<groupId>org.arquillian.liferay</groupId>
 	<modelVersion>4.0.0</modelVersion>
 	<version>1.0.0.Final-SNAPSHOT</version>
 	<name>Arquillian Liferay Deployment Scenario Generator</name>
